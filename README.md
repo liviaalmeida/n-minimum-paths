@@ -7,4 +7,4 @@ First, __k__ indicates __number of instances__.
 Then, for each instance is given: __x\*y__ __city dimensions__, __e blocked corners__, __e lines__ with __coordinates to blocked corners__, __c target corners__, and __c lines__ with __coordinates to target corners__.
 
 # execution
-$ ./paths input\_file output\_file
+__$ ./paths input\_file output\_file__
